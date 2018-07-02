@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/home/mkemp/Documents/Unreal Projects/BuildingEscape/.vscode": true,
+		"/home/mkemp/Documents/Unreal Projects/BuildingEscape/Content": true,
+		"/home/mkemp/Documents/Unreal Projects/BuildingEscape/Intermediate": true
+	}
+}
